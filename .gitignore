@@ -1,0 +1,7 @@
+node_modules/
+*.log
+*.js
+*.map
+bs-config.json
+e2e-spec.ts
+tslint.json
